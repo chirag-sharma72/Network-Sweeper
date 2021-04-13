@@ -6,7 +6,7 @@
 if [ "$1" == "" ]
 then
 echo "You forgot the ip address!"
-echo "Syntax: ./ipsweep\3 a.b.c"
+echo "Syntax: ./sweep.sh a.b.c"
 
 else
 # to check active hosts in the network
